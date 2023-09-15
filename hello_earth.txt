@@ -1,3 +1,5 @@
 Another round of testing in git.
 This is only a testing state again.
 Testing only not staged.
+Testing only not staged 2.
+Testing only not staged 3.
