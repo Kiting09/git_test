@@ -6,3 +6,4 @@ Testing only not staged 3.
 Testing only not staged 4.
 Testing only not staged 5. 
 Testing only not staged 6.
+Testing only not staged 7. 
